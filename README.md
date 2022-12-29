@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML , CSS**
+- 💬 Ask me about **HTML , CSS , JavaSrcipt,Node.js,DOM Manipulatio**
 
 - 📫 How to reach me **raviv7536@gmail.com**
 
