@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ravi</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Streamlining Systems, Amplifying Efficiency: DevOps Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamravi-prakash&label=Profile%20views&color=0e75b6&style=flat" alt="iamravi-prakash" /> </p>
 
 <p align="left"> <a href="https://twitter.com/raviiprakash" target="blank"><img src="https://img.shields.io/twitter/follow/raviiprakash?logo=twitter&style=for-the-badge" alt="raviiprakash" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **HTML , CSS , JavaSrcipt,ReactJS, Node.js,**
+- 💬 Ask me about **DevOps , Cloud , Linux**
 
 - 📫 How to reach me **raviv7536@gmail.com**
 
-- ⚡ Fun fact **Marvel Lover**
+- ⚡ Fun fact **Traveling & Music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
